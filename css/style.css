@@ -1,12 +1,12 @@
 h3 {
-	background-color: rgb(61, 255, 242);
-	color: hsl(35, 87%, 56%);
+	background-color: rgb(187, 61, 255);
+	color: hsl(222, 87%, 56%);
 	padding: 40px;
 	text-align: center;
 }
 
 p {
-	color: #802000;
+	color: #228000;
 }
 
 img {
@@ -21,7 +21,7 @@ div {
 }
 
 body {
-	background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background: linear-gradient(-45deg, #53baee, #e79940, #d7239e, #4a23d7);
 	background-size: 400% 400%;
 	animation: gradient 10s ease infinite;
 	height: 100vh;
